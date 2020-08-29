@@ -1,0 +1,11 @@
+.name-alert,.age-alert,.phone-alert{
+    display: none;
+}
+.hader{
+    color:#09c
+}
+h1{
+    color:#09c;
+    font-size: 60px;
+    text-align: center;
+}
